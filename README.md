@@ -1,6 +1,6 @@
 # iOS_GuessingGame
 
-iOS_GuessingGame app generates a random number between 1 and 25. The user has to guess the correct number. </br>
+iOS_GuessingGame app generates a random number between 1 and 25. The user has to guess the correct number.
 When the user enters the number the app provides feedback if the number is not correct (for example, the guessed number is greater or less than the correct number).
 The user has 5 attempts to guess a correct number.
 
